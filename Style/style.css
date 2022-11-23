@@ -1,0 +1,58 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: white;
+}
+
+.titletxt{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.box{
+    margin: 150px;
+    width: 450px;
+    height: 200px;
+    float: left;
+}
+
+
+#navbar{
+    padding: 20px;
+}
+
+#img{
+    margin: 50px;
+    justify-content: end;
+    float: right;
+}
+#childern{
+    font-weight: 600;
+}
+#getstart{
+    font-weight: 600;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.btn btn-primary{
+    background-color: aqua;
+}
+
+.boxcolumn{
+    background-color: black;
+}
+
+.btnlogin{
+    color: rgb(107, 107, 107);
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.btnlogin:hover{
+    color: rgb(0, 0, 0);
+}
+

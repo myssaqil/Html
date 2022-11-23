@@ -1,0 +1,102 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: white;
+}
+
+#img{
+    padding: 100px;
+    width: 55%;
+    float: left;
+    background-color: whitesmoke;
+}
+
+#formpage{
+    padding-top: 100px;
+    padding-left: 10%;
+    width: 45%;
+    float: right;
+    background-color: white;
+}
+.title{
+    margin-top: 5%;
+}
+
+.boxcolumn{
+    border-radius: 5px;
+    width: 400px;
+    height: 55px;
+    background-color: rgb(206, 206, 206);
+}
+
+.icon{
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.input{
+    height: 55px;
+    background-color: transparent;
+    width: 300px;
+    border: 0;
+}
+
+.input:focus{
+    outline: none;
+    background-color: transparent;
+}
+.input:hover{
+    outline: none;
+    background-color: transparent;
+}
+
+.pass{
+    margin-top: 30px;
+    background-color: black;
+    margin-top: 15px;
+    width: 400px;
+    border: 0;
+    
+}
+
+.forgetpw
+{
+    float: right;
+    text-decoration: none;
+    color: rgb(106, 106, 106);
+}
+
+.content{
+    width: 400px;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+#loginbtn{
+    margin-top: 100px;
+    width: 300px;
+}
+
+.gotoregistertxt{
+    float: left;
+}
+
+.gotoregisterbtn
+{
+    margin-left: 5px;
+    float: left;
+    text-decoration: none;
+    color: rgb(106, 106, 106);
+}
+
+.tocenter{
+    padding-left: 20%;
+    margin-top: 50px;
+}
+
